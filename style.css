@@ -1,0 +1,18 @@
+.col{
+    display: inline-block;
+    -webkit-column-break-inside: avoid;
+}
+.card-header{
+    font-style: bold;
+    color: black;
+    font-size: larger;
+    background-color: wheat;
+}
+.card-body{
+    font-size: larger;
+    color:black;
+    background-color:lightgreen;
+}
+body{
+    background-image: url("https://i.pinimg.com/originals/77/cf/1f/77cf1f6c8a59750ea178f235acb89e3e.jpg");
+}
